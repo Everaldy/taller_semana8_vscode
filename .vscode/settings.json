@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "editor.wordWrap": "on",
+  "files.autoSave": "off"
+}
