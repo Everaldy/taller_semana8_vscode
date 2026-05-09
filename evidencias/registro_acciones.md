@@ -11,3 +11,5 @@ Completa esta tabla durante el taller.
 | 5 | Ejecutar programa | python src/produccion_finca.py |  |  |
 | 6 | Verificar resultado | Calculo manual |  |  |
 | 7 | Ajustar procedimiento, si aplica |  |  |  |
+
+
